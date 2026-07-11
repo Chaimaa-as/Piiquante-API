@@ -33,6 +33,8 @@ Vous pouvez consulter le support de présentation expliquant mes choix d'archite
 
 Pour lancer l'API localement, vous devez avoir Node.js installé sur votre machine.
 
+Note : Ce dépôt ne contient que l'API (Back-End). L'interface utilisateur (Front-End Angular) a été fournie précompilée par OpenClassrooms. Pour tester cette API, vous pouvez utiliser des outils comme Postman, ou la relier à une interface Front-End compatible."
+
 1. Clonez ce dépôt : `git clone https://github.com/Chaimaa-as/Piiquante-API.git`
 2. Ouvrez un terminal dans le dossier et lancez la commande : `npm install`
 3. Créez un fichier `.env` à la racine et ajoutez vos variables d'environnement (URL MongoDB, Clé secrète JWT). Vous pouvez vous baser sur le fichier `.env.example`.
